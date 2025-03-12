@@ -1,2 +1,2 @@
-# iaw2025
-Repositiorio con el código desarrolladod en el modulo de IAW 24-25
+# Practica 4 
+Repositiorio con el código desarrollado en la práctica mencionada anteriormente
